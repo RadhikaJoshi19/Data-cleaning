@@ -1,0 +1,9 @@
+WEEK 1 R PROJECT
+
+Files:
+- Week_1_Data_Cleaning_Preliminary_Analysis_R.docx : professional report
+- week1_titanic_analysis.R : complete R script
+- titanic_cleaned.csv : cleaned dataset with standardized columns
+- 01-07 PNG files : visual aids used in the report
+
+Run the R script in RStudio to reproduce the analysis and capture native RStudio screenshots if required.
